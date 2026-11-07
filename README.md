@@ -1,6 +1,6 @@
 # Sold Out v1.0 (Farming Simulator 25)
 
-**Sold Out** is a server admin and economy tool for Farming Simulator 25. It allows multiplayer server administrators to lock or unlock any vehicle or equipment item directly within the in-game shop menu.
+**Sold Out** is a server admin and economy tool for Farming Simulator 25. It allows multiplayer server administrators to lock or unlock any vehicle, machine, or consumable item (like fertilizer, seeds, lime, and pallets) directly within the in-game shop menu.
 
 ---
 
@@ -14,10 +14,11 @@ For official downloads (PC, Mac, and Consoles), please use the official GIANTS M
 ---
 
 ### 🛠️ Key Features
-* 🛒 **One-Key Shop Lock:** Highlight any vehicle or tool in the shop grid and press **`C`** to toggle its availability.
+* 🛒 **One-Key Shop Lock:** Highlight any vehicle, implement, seed bag, fertilizer pallet, or consumable in the shop grid and press **`C`** to toggle its availability.
 * 🛑 **Visual Indicator:** Locked items display a prominent **"SOLD OUT"** overlay in the store menu.
-* 🔄 **Full Multiplayer Sync:** Lock states sync instantly across all clients and persist directly in your savegame.
-* 🚜 **Roleplay & Economy Friendly:** Forces players to rely on custom machinery rentals, contractor work, or used machinery.
+* 📦 **Full Store Coverage:** Works on vehicles, machinery, BigBags, pallets, consumables (seeds, fertilizer, lime), and shop categories.
+* 🔄 **Full Multiplayer Sync:** Lock states sync instantly across all connected clients and persist directly in your savegame.
+* 🚜 **Roleplay & Economy Friendly:** Restrict direct shop buying to force player-to-player trade, custom rentals, or local production usage.
 
 ---
 
